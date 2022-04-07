@@ -52,8 +52,8 @@ body #side-panel.dark {
 
 .dark #top-bar,
 #top-bar.dark {
-	border-bottom-color: rgba(255,255,255,0.1);
-	background-color: #282828;
+	border-bottom-color: rgba(24, 24, 24, 0.1);
+	background-color: #1d1818;
 }
 
 .dark .top-links {
